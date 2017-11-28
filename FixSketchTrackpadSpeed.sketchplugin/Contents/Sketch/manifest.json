@@ -1,0 +1,19 @@
+{
+  "name": "Fix Trackpad Speed",
+  "author": "pravdomil.com",
+  "homepage": "https://github.com/pravdomil/FixSketchTrackpadSpeed",
+  "identifier": "com.pravdomil.FixSketchTrackpadSpeed",
+  "version": "0.0.1",
+  "compatibleVersion": 40,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "script": "script.js",
+      "handlers": {
+        "actions": {
+          "Startup" : "onStart"
+        }
+      }
+    }
+  ]
+}

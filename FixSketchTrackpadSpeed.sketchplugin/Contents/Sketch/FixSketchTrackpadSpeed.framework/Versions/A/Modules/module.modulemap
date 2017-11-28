@@ -1,0 +1,6 @@
+framework module FixSketchTrackpadSpeed {
+  umbrella header "FixSketchTrackpadSpeed.h"
+
+  export *
+  module * { export * }
+}
