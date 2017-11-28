@@ -3,7 +3,7 @@
   "author": "pravdomil.com",
   "homepage": "https://github.com/pravdomil/FixSketchTrackpadSpeed",
   "identifier": "com.pravdomil.FixSketchTrackpadSpeed",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "compatibleVersion": 40,
   "bundleVersion": 1,
   "commands": [
