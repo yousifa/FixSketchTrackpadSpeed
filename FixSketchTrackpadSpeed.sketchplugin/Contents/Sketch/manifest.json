@@ -1,5 +1,6 @@
 {
   "name": "Fix Trackpad Speed",
+  "description": "This plugin speeds up scrolling across all artboards.",
   "author": "pravdomil.com",
   "homepage": "https://github.com/pravdomil/FixSketchTrackpadSpeed",
   "identifier": "com.pravdomil.FixSketchTrackpadSpeed",
